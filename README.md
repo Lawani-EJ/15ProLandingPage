@@ -117,6 +117,6 @@ For additional insights, tips, and tutorials that helped shape this project, che
 - **Video Title**: Build and Deploy an Apple Website with React | Beginner Three.js & GSAP Tutorial  
 - **Link**: [Build and Deploy an Apple Website with React](https://youtu.be/kRQbRAJ4-Fs?si=Pig1Uh6s5ONej0VF)  
 
-I would love to give a special thanks to the adrianhajdin for this detailed explanation and guidance, which greatly contributed to the success of this project!  
+I would love to give a special thanks to adrianhajdin for this detailed explanation and guidance, which greatly contributed to the success of this project!  
 
 ---
