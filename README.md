@@ -1,4 +1,6 @@
-# Apples's iPhone 15 Pro 
+![alt text](image.png)
+
+# Apples's iPhone 15 Pro Website
 ## Introduction
 This is a project in cloning the Apples's Iphone 15 Pro website, built using React.js and Tailwind CSS. It makes use of the GSAP (Greensock Animations) and Three.js which is used to display the iPhone 15 Pro models in various colors and shapes.
 
@@ -103,7 +105,6 @@ device information.
 ---
 
 ## 📷 3D Preview and Screenshots 
-![alt text](image.png)
 
 ![alt text](image-1.png)
 
