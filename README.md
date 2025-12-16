@@ -121,3 +121,7 @@ For additional insights, tips, and tutorials that helped shape this project, che
 I would love to give a special thanks to adrianhajdin for this detailed explanation and guidance, which greatly contributed to the success of this project!  
 
 ---
+
+## ⭐ Thank You!
+If you enjoyed this project or learned something from it, please consider giving the repo a ⭐  
+It really helps and means a lot!
